@@ -7,7 +7,6 @@ A solution that can evaluate images and alert dermatologists about the presence 
 .
 ## Table of Contents
 * [General Info](#general-information)
-* [Technologies Used]
 * [Conclusions](#conclusions)
 * [Acknowledgements](#acknowledgements)
 
@@ -29,11 +28,6 @@ Validation accuracy is low and not significantly higher than training accuracy.B
 
 <!-- You don't have to answer all the questions - just the ones relevant to your project. -->
 
-
-## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
 
 ## Acknowledgements
 Give credit here.
