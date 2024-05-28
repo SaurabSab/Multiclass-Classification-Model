@@ -1,2 +1,2 @@
 # Multiclass-Classification-Model
-Building a CNN Model for detecting for different t Skin Cancers
+Building a CNN Model for detecting for different types of Skin Cancers
