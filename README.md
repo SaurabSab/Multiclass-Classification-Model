@@ -42,11 +42,11 @@ Building a CNN Model for detecting for different types of Skin Cancers
 Give credit here.
 - This project was inspired by...
 - References if any...
-- This project was based on [this tutorial](https://www.example.com).
+- This project was based on Convoluted Neural Networks
 
 
 ## Contact
-Created by [@githubusername] - feel free to contact me!
+Created by [SaurabSab]
 
 
 <!-- Optional -->
